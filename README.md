@@ -2,7 +2,7 @@
 
 ## Repository Structure
 
-Each problem (from A to D) has their own folder. The folder name is the `slug` of the problem, which is the codename we used when we internally prepare the problems. The following table describes the slug for each problem
+Each problem (from A to D) has their own folder. The folder name is the `slug` of the problem, which is the codename we used when we internally prepare the problems. The following table describes the slug for each problem :
 
 | Problem Code | Problem Slug   | Problem Title              |
 | ------------ | -------------- | -------------------------- |

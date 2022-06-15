@@ -43,3 +43,6 @@ Note that while there is only one official published solution, we have a lot of 
 - Other correct solutions (especially on problems with more than one correct outputs for each input)
 
 The soft copy of the problem statement provided in this repository is the one distributed after the fix was made.
+
+## Licensed
+Licensed under [MIT](https://github.com/GWENTzy/INC-2021-Trial-Session/blob/main/LICENSE)
